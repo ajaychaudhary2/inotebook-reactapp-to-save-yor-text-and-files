@@ -1,0 +1,74 @@
+@import url("https://fonts.googleapis.com/css2?family=Mooli&display=swap");
+
+@import url("https://fonts.googleapis.com/css2?family=Exo:wght@100;200;400&display=swap");
+
+body {
+  font-family: "Mooli", sans-serif !important;
+  background: #535353;
+}
+.navbar {
+  background: rgba(0, 0, 0, 0.882) !important;
+}
+h1 {
+  font-family: "Exo", sans-serif;
+  color: #ffeddb !important;
+}
+label {
+  color: #ffeddb !important;
+}
+
+.btnclr{
+  background-color: #e4a755 !important;
+  outline: none !important;
+}
+.btnclr:hover{
+  background-color: aliceblue !important;
+  outline: 2px solid #e4a755 !important;
+  color: black !important;
+}
+.container-fluid {
+  margin: 10px 0px;
+}
+.navbar-brand:hover {
+  color: #e4a755 !important;
+}
+.navbar-brand {
+  font-size: 2.2rem;
+  color: #e4a755;
+}
+.navbar-nav {
+  margin-left: 4rem !important;
+}
+.cl2{
+  color: white !important;
+}
+.white {
+  color: rgb(255, 255, 255);
+}
+
+.nav-link:hover {
+  color: #e4a755 !important;
+}
+.nav-link {
+  font-size: 1.2rem;
+  margin: 0px 2rem;
+}
+.margin {
+  margin-top: 9rem !important;
+}
+.margin2 {
+  margin-top: 15rem !important;
+}
+.bg {
+  background-color: #e4a755 !important;
+}
+.bg:hover {
+  background-color: aliceblue !important;
+  outline: 2px solid #e4a755 !important;
+}
+.size {
+  font-size: 1.2rem !important;
+}
+.modalclr{
+  color: #d27700 !important;
+}
